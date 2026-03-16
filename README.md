@@ -109,12 +109,6 @@ I'm a fourth-year **Computer Science Honours** student at the **University of Ma
 
 <br/>
 
-<div align="center">
-  
-  ![Visitor Count](https://visitcount.itsvg.in/api?id=satyambhanot&icon=6&color=1)
-
-</div>
-
 <!-- Random Dev Quote -->
 <div align="center">
   
