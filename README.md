@@ -16,7 +16,7 @@ I'm a fourth-year **Computer Science Honours** student at the **University of Ma
 - 🔭 &nbsp;Currently building **PetObject**, a team Android app for pet lifecycle management
 - 🗺️ &nbsp;Following a self-built career roadmap: **Python → FastAPI → Docker → AWS → React → ML**
 - 💡 &nbsp;Interested in **full-stack development**, **machine learning**, and **data-driven solutions**
-- ⚡ &nbsp;Fun fact: I built my [portfolio site](https://satyambhanot.github.io) from scratch with vanilla HTML, CSS & JS, no frameworks
+- ⚡ &nbsp;Fun fact: my [portfolio site](https://satyambhanot.github.io) is built with **Astro**
 
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%">
 
@@ -31,6 +31,7 @@ I'm a fourth-year **Computer Science Honours** student at the **University of Ma
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
 ![C](https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white)
 ![C++](https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white)
+![R](https://img.shields.io/badge/R-276DC3?style=for-the-badge&logo=r&logoColor=white)
 ![SQL](https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=postgresql&logoColor=white)
 ![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
 ![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
@@ -44,6 +45,8 @@ I'm a fourth-year **Computer Science Honours** student at the **University of Ma
 ![NumPy](https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white)
 ![Pandas](https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white)
 ![scikit--learn](https://img.shields.io/badge/scikit--learn-F7931E?style=for-the-badge&logo=scikitlearn&logoColor=white)
+![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white)
+![Astro](https://img.shields.io/badge/Astro-BC52EE?style=for-the-badge&logo=astro&logoColor=white)
 
 **Tools & Platforms**
 
@@ -54,6 +57,7 @@ I'm a fourth-year **Computer Science Honours** student at the **University of Ma
 ![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
 ![AWS](https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazonwebservices&logoColor=white)
 ![SQLite](https://img.shields.io/badge/SQLite-003B57?style=for-the-badge&logo=sqlite&logoColor=white)
+![SQL Server](https://img.shields.io/badge/SQL%20Server-CC2927?style=for-the-badge&logo=microsoftsqlserver&logoColor=white)
 
 </div>
 
@@ -84,15 +88,29 @@ I'm a fourth-year **Computer Science Honours** student at the **University of Ma
 ## 🚀 Featured Projects
 
 <div align="center">
+  <a href="https://github.com/satyambhanot/neighbourhood-nexus">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=satyambhanot&repo=neighbourhood-nexus&theme=tokyonight&hide_border=true" alt="Neighbourhood Nexus"/>
+  </a>
+  &nbsp;
+  <a href="https://github.com/satyambhanot/credit-card-fraud-detection">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=satyambhanot&repo=credit-card-fraud-detection&theme=tokyonight&hide_border=true" alt="Credit Card Fraud Detection"/>
+  </a>
+  <br/>
+  <a href="https://github.com/satyambhanot/wheres-waldo-model-comparison">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=satyambhanot&repo=wheres-waldo-model-comparison&theme=tokyonight&hide_border=true" alt="Where's Waldo Model Comparison"/>
+  </a>
+  &nbsp;
+  <a href="https://github.com/satyambhanot/lamplighter">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=satyambhanot&repo=lamplighter&theme=tokyonight&hide_border=true" alt="Lamplighter"/>
+  </a>
+  <br/>
+  <a href="https://github.com/satyambhanot/nba-win-probability-regression">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=satyambhanot&repo=nba-win-probability-regression&theme=tokyonight&hide_border=true" alt="NBA Win Probability Regression"/>
+  </a>
+  &nbsp;
   <a href="https://github.com/satyambhanot/satyambhanot.github.io">
     <img src="https://github-readme-stats.vercel.app/api/pin/?username=satyambhanot&repo=satyambhanot.github.io&theme=tokyonight&hide_border=true" alt="Portfolio Site"/>
   </a>
-  <!-- Add more pinned project cards here as you make repos public -->
-  <!-- Example:
-  <a href="https://github.com/satyambhanot/REPO-NAME">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=satyambhanot&repo=REPO-NAME&theme=tokyonight&hide_border=true" alt="Project Name"/>
-  </a>
-  -->
 </div>
 
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%">
