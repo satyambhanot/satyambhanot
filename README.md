@@ -13,8 +13,8 @@
 I'm a **Master of Engineering** student in Electrical and Computer Engineering, specializing in **Software Engineering**, at the **University of Calgary's Schulich School of Engineering**. Before that I studied **Computer Science (Honours)** at the **University of Manitoba**, with minors in **Mathematics** and **Statistics**. I love building things that solve real problems, from Android apps to data-driven tools.
 
 - 🎓 &nbsp;MEng student at the **University of Calgary** (since September 2026), always learning something new
-- 🔭 &nbsp;Currently building **PetObject**, a team Android app for pet lifecycle management
-- 🗺️ &nbsp;Following a self-built career roadmap: **Python → FastAPI → Docker → AWS → React → ML**
+- 🔭 &nbsp;Recently built **[Lamplighter](https://github.com/satyambhanot/lamplighter)**, a street-light dispatch tool for the IEEE YP Industry Hackathon in Calgary, with a FastAPI backend, a Streamlit dashboard and a voice agent
+- 📚 &nbsp;Taking graduate courses in **software engineering**, **machine learning**, **databases** and **big data**
 - 💡 &nbsp;Interested in **full-stack development**, **machine learning**, and **data-driven solutions**
 - ⚡ &nbsp;Fun fact: my [portfolio site](https://satyambhanot.github.io) is built with **Astro**
 
