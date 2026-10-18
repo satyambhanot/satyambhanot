@@ -1,7 +1,7 @@
 <!-- Animated Typing Header -->
 <div align="center">
   
-  [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=26&duration=3000&pause=1000&color=4FC3F7&center=true&vCenter=true&multiline=true&repeat=true&width=850&height=100&lines=Hey+there%2C+I'm+Satyam+Bhanot+%F0%9F%91%8B;CS+Honours+%40+University+of+Manitoba;Full-Stack+Developer+%7C+ML+Enthusiast)](https://git.io/typing-svg)
+  [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=26&duration=3000&pause=1000&color=4FC3F7&center=true&vCenter=true&multiline=true&repeat=true&width=850&height=100&lines=Hey+there%2C+I'm+Satyam+Bhanot+%F0%9F%91%8B;MEng+Software+Engineering+%40+University+of+Calgary;Full-Stack+Developer+%7C+ML+Enthusiast)](https://git.io/typing-svg)
 
 </div>
 
@@ -10,9 +10,9 @@
 
 ## 🧑‍💻 About Me
 
-I'm a fourth-year **Computer Science Honours** student at the **University of Manitoba**, with minors in **Mathematics** and **Statistics**. I love building things that solve real problems, from Android apps to data-driven tools.
+I'm a **Master of Engineering** student in Electrical and Computer Engineering, specializing in **Software Engineering**, at the **University of Calgary's Schulich School of Engineering**. Before that I studied **Computer Science (Honours)** at the **University of Manitoba**, with minors in **Mathematics** and **Statistics**. I love building things that solve real problems, from Android apps to data-driven tools.
 
-- 🎓 &nbsp;Graduating **April 2026**, always learning something new
+- 🎓 &nbsp;MEng student at the **University of Calgary** (since September 2026), always learning something new
 - 🔭 &nbsp;Currently building **PetObject**, a team Android app for pet lifecycle management
 - 🗺️ &nbsp;Following a self-built career roadmap: **Python → FastAPI → Docker → AWS → React → ML**
 - 💡 &nbsp;Interested in **full-stack development**, **machine learning**, and **data-driven solutions**
